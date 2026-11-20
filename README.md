@@ -35,3 +35,7 @@ This edition uses a monochrome black-and-white editorial theme with grayscale ar
 
 ## Building anatomy section
 The Building Anatomy section introduces the main systems of a building: substructure, primary structure, envelope, internal components, building services, finishes, and site works/drainage. It includes a conceptual cutaway diagram, a simplified load path, and tropical-climate considerations. The diagram is educational and not a construction drawing.
+
+
+## Structural systems and 3D learning models
+The Structural Systems chapter adds conceptual 3D isometric models for spread footings, columns, beams, slabs, roof trusses, load-bearing walls, and lateral bracing/shear systems. Drag or swipe a model to rotate it; keyboard users can focus a model and use the arrow keys. The models are created with CSS 3D geometry, so no 3D library or build step is required. They are explanatory illustrations, not engineering drawings or construction specifications.
