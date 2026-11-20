@@ -39,3 +39,9 @@ The Building Anatomy section introduces the main systems of a building: substruc
 
 ## Structural systems and 3D learning models
 The Structural Systems chapter adds conceptual 3D isometric models for spread footings, columns, beams, slabs, roof trusses, load-bearing walls, and lateral bracing/shear systems. Drag or swipe a model to rotate it; keyboard users can focus a model and use the arrow keys. The models are created with CSS 3D geometry, so no 3D library or build step is required. They are explanatory illustrations, not engineering drawings or construction specifications.
+
+
+## Language selection
+The site now includes an English / Bahasa Indonesia toggle in the header. The selected language is saved in the current browser using local storage. The language switch translates the main navigation, learning content, structural systems chapter, materials library, interior design, learning programme, and reference shelf. The 3D models and interactions remain unchanged.
+
+To publish, replace the existing `index.html`, `styles.css`, `script.js`, and `README.md` in your GitHub Pages repository, then commit the changes.
