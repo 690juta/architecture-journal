@@ -28,3 +28,10 @@ The earlier lesson images were visual reference previews inside the chat, not do
 - Adjust colours, typography, spacing, and layout in `styles.css`.
 - Add lessons as new sections or separate HTML pages.
 - Learning progress is saved in the visitor's browser using local storage; it is not synchronised between devices.
+
+## Theme
+This edition uses a monochrome black-and-white editorial theme with grayscale architectural illustrations and material swatches. Main colours are pure white, near-black, and neutral grey.
+
+
+## Building anatomy section
+The Building Anatomy section introduces the main systems of a building: substructure, primary structure, envelope, internal components, building services, finishes, and site works/drainage. It includes a conceptual cutaway diagram, a simplified load path, and tropical-climate considerations. The diagram is educational and not a construction drawing.
